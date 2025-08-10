@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Assistant de Taille — Tailor Wizard</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="layout">
+    <div class="wizard card">
+      <header class="head">
+        <div class="brand">tailorgeorge.</div>
+        <nav class="nav">
+          <a href="#" aria-label="menu">Menu</a>
+          <a href="#" class="cart" aria-label="panier">Panier</a>
+        </nav>
+      </header>
+      <div class="progress"><div id="bar"></div></div>
+      <div class="step-meta">
+        Étape <b id="sn">1</b>/6 — <span class="muted">Créez une taille unique pour votre chemise</span>
+      </div>
+      <main id="content"></main>
+      <footer class="foot-actions">
+        <button id="back" class="btn outline" type="button">Retour</button>
+        <div class="spacer"></div>
+        <button id="jsonBtn" class="btn ghost" type="button">Voir JSON</button>
+        <button id="next" class="btn" type="button">Continuer</button>
+      </footer>
+    </div>
+    <aside class="json card">
+      <h3>Payload</h3>
+      <pre id="jsonBox">{}</pre>
+      <div class="aside-actions">
+        <button id="copyJson" class="btn small" type="button">Copier</button>
+        <button id="dlJson" class="btn small" type="button">Télécharger</button>
+      </div>
+    </aside>
+  </div>
+  <script type="module" src="wizard.js"></script>
+</body>
+</html>
