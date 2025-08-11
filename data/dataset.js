@@ -7,12 +7,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "31,5",
     "chest_cm": "73,5",
     "waist_cm": "65,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "34,5",
     "sleeve_right_cm": "57,5",
     "sleeve_left_cm": "57,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22,12 +22,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "92",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -37,12 +37,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "120",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -52,12 +52,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "114",
     "waist_cm": "116",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -67,12 +67,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "100",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -82,12 +82,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "102",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -97,12 +97,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "111",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "52",
     "sleeve_left_cm": "52",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -112,12 +112,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "33",
     "chest_cm": "79",
     "waist_cm": "65",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -127,12 +127,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "89",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -142,12 +142,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43,5",
     "chest_cm": "106",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "55",
     "sleeve_left_cm": "55",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -157,12 +157,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "124",
     "waist_cm": "124",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -172,12 +172,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "90",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "50,5",
     "sleeve_left_cm": "50,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -187,12 +187,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "93",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -202,12 +202,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "107",
     "waist_cm": "112,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -217,12 +217,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "88",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "56,75",
     "sleeve_left_cm": "56,75",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -232,12 +232,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "89",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -247,12 +247,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "98",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -262,12 +262,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "31",
     "chest_cm": "85",
     "waist_cm": "63",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "37",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -277,12 +277,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "83",
     "waist_cm": "68",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -292,12 +292,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "77",
     "waist_cm": "70",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "39",
     "sleeve_right_cm": "55",
     "sleeve_left_cm": "55",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -307,12 +307,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "33,5",
     "chest_cm": "87",
     "waist_cm": "71",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "33",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -322,12 +322,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "86",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "63,5",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -337,12 +337,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "85",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -352,12 +352,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "102",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -367,12 +367,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "96",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "54",
     "sleeve_left_cm": "55",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -382,12 +382,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "97",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -397,12 +397,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "97",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -412,12 +412,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "96",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -427,12 +427,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "100",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "58,5",
     "sleeve_left_cm": "58,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -442,12 +442,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "94",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "39",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -457,12 +457,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "98",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -472,12 +472,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "105",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -487,12 +487,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "104",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -502,12 +502,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -517,12 +517,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "105",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -532,12 +532,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "105",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -547,12 +547,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "109",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "53",
     "sleeve_left_cm": "53",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -562,12 +562,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "118",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "54",
     "sleeve_left_cm": "55",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -577,12 +577,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "116",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "61,5",
     "sleeve_left_cm": "60,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -592,12 +592,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "52,5",
     "chest_cm": "122",
     "waist_cm": "128",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -607,12 +607,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "124",
     "waist_cm": "116",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -622,12 +622,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "118",
     "waist_cm": "120",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -637,12 +637,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "50",
     "chest_cm": "115",
     "waist_cm": "119",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -652,12 +652,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "120",
     "waist_cm": "120",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -667,12 +667,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "112",
     "waist_cm": "120",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -682,12 +682,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "112,5",
     "waist_cm": "102,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -697,12 +697,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "116",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -712,12 +712,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "89",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -727,12 +727,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34",
     "chest_cm": "84",
     "waist_cm": "71",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -742,12 +742,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36,5",
     "chest_cm": "87",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -757,12 +757,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "89",
     "waist_cm": "73",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -772,12 +772,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "92",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "56,5",
     "sleeve_left_cm": "56,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -787,12 +787,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "93",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -802,12 +802,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "100",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -817,12 +817,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "124",
     "waist_cm": "123",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -832,12 +832,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35,8",
     "chest_cm": "84",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -847,12 +847,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "87",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -862,12 +862,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "87",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -877,12 +877,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "93",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -892,12 +892,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "80",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -907,12 +907,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "87",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "39",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -922,12 +922,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "91",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -937,12 +937,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "87",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -952,12 +952,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "90",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -967,12 +967,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "95",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -982,12 +982,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "102",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -997,12 +997,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1012,12 +1012,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "104",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "52",
     "sleeve_left_cm": "52",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1027,12 +1027,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "107",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1042,12 +1042,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "70",
     "waist_cm": "69",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "39",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1057,12 +1057,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "83",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1072,12 +1072,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "89",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "59,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1087,12 +1087,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "88",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1102,12 +1102,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "90",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1117,12 +1117,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "86",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1132,12 +1132,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "91",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42,5",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1147,12 +1147,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "88",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1162,12 +1162,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "92",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1177,12 +1177,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "98",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1192,12 +1192,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "98",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "77",
     "sleeve_left_cm": "77",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1207,12 +1207,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "99",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "57,5",
     "sleeve_left_cm": "57,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1222,12 +1222,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "97",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1237,12 +1237,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "95",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1252,12 +1252,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "101",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1267,12 +1267,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "104",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1282,12 +1282,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "105,5",
     "waist_cm": "94,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1297,12 +1297,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "104",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1312,12 +1312,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "105",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1327,12 +1327,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "105",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1342,12 +1342,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "106",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1357,12 +1357,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "107",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1372,12 +1372,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "119",
     "waist_cm": "119",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1387,12 +1387,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "111",
     "waist_cm": "130",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1402,12 +1402,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "115",
     "waist_cm": "126",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "54",
     "sleeve_left_cm": "54",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1417,12 +1417,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "78",
     "waist_cm": "70",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "38",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1432,12 +1432,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34",
     "chest_cm": "84",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1447,12 +1447,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37,7",
     "chest_cm": "89",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "39,5",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1462,12 +1462,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "86",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1477,12 +1477,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "95",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1492,12 +1492,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "87",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1507,12 +1507,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "92",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1522,12 +1522,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "96",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1537,12 +1537,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "102",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1552,12 +1552,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1567,12 +1567,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1582,12 +1582,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "100",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1597,12 +1597,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45,5",
     "chest_cm": "110",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1612,12 +1612,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "115",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1627,12 +1627,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "118",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1642,12 +1642,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "52",
     "chest_cm": "142",
     "waist_cm": "138",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "60",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1657,12 +1657,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "32",
     "chest_cm": "77",
     "waist_cm": "65",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1672,12 +1672,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "84",
     "waist_cm": "67",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "39",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1687,12 +1687,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "33",
     "chest_cm": "79",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "38",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1702,12 +1702,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34",
     "chest_cm": "84",
     "waist_cm": "66",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1717,12 +1717,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "85",
     "waist_cm": "71",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1732,12 +1732,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35,5",
     "chest_cm": "88",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1747,12 +1747,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34",
     "chest_cm": "84",
     "waist_cm": "74,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1762,12 +1762,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "88",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1777,12 +1777,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "85",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "39",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1792,12 +1792,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1807,12 +1807,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34",
     "chest_cm": "79",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1822,12 +1822,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "33",
     "chest_cm": "92",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "57",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1837,12 +1837,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42,5",
     "chest_cm": "91",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "56,5",
     "sleeve_left_cm": "56,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1852,12 +1852,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "84",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1867,12 +1867,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34",
     "chest_cm": "83",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "55",
     "sleeve_left_cm": "55",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1882,12 +1882,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "87",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "39",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1897,12 +1897,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "89",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1912,12 +1912,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1927,12 +1927,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "87",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1942,12 +1942,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "91",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1957,12 +1957,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "91",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1972,12 +1972,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "92",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -1987,12 +1987,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "106",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2002,12 +2002,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40,5",
     "chest_cm": "54",
     "waist_cm": "55",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2017,12 +2017,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "103",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42,5",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2032,12 +2032,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "96",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2047,12 +2047,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2062,12 +2062,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2077,12 +2077,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "99",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2092,12 +2092,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "96",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2107,12 +2107,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "97",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2122,12 +2122,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "99",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2137,12 +2137,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2152,12 +2152,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "101",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2167,12 +2167,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "101",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2182,12 +2182,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "99",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2197,12 +2197,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "96",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2212,12 +2212,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "102",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2227,12 +2227,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "99",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2242,12 +2242,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "54",
     "sleeve_left_cm": "54",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2257,12 +2257,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "101",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2272,12 +2272,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "99",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2287,12 +2287,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "96",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2302,12 +2302,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "101",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2317,12 +2317,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "105",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2332,12 +2332,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "104",
     "waist_cm": "111",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2347,12 +2347,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "107",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "72",
     "sleeve_left_cm": "70",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2362,12 +2362,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "103",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2377,12 +2377,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "103",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2392,12 +2392,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40,5",
     "chest_cm": "113",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2407,12 +2407,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "101",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2422,12 +2422,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "105",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2437,12 +2437,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43,5",
     "chest_cm": "100",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2452,12 +2452,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "112",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "54",
     "sleeve_left_cm": "54",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2467,12 +2467,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "101",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2482,12 +2482,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "104",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2497,12 +2497,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "112",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2512,12 +2512,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "108",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2527,12 +2527,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "110",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2542,12 +2542,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "110",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "58,5",
     "sleeve_left_cm": "58,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2557,12 +2557,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "117",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2572,12 +2572,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "121",
     "waist_cm": "120",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "55",
     "sleeve_left_cm": "55",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2587,12 +2587,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "116",
     "waist_cm": "116",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2602,12 +2602,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "126",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "55",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2617,12 +2617,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "122",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2632,12 +2632,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34",
     "chest_cm": "94",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2647,12 +2647,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36,5",
     "chest_cm": "92",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2662,12 +2662,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2677,12 +2677,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "86",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2692,12 +2692,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "85",
     "waist_cm": "68",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2707,12 +2707,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "94",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2722,12 +2722,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "94",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2737,12 +2737,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "96",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42,5",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "58,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2752,12 +2752,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2767,12 +2767,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "95",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2782,12 +2782,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "101",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2797,12 +2797,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "96",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2812,12 +2812,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "96",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2827,12 +2827,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "52",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45,7",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2842,12 +2842,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "112",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2857,12 +2857,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "108",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2872,12 +2872,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "105",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2887,12 +2887,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "106",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2902,12 +2902,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "108",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2917,12 +2917,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "109",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2932,12 +2932,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "108",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2947,12 +2947,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "128",
     "waist_cm": "130",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2962,12 +2962,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "121",
     "waist_cm": "123",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2977,12 +2977,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "108",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "37",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -2992,12 +2992,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "111",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3007,12 +3007,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "120",
     "waist_cm": "137",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3022,12 +3022,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "39",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3037,12 +3037,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "75",
     "waist_cm": "55",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3052,12 +3052,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "95",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3067,12 +3067,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "99",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3082,12 +3082,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "90",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3097,12 +3097,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "92",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3112,12 +3112,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "93",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "39",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3127,12 +3127,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "95",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3142,12 +3142,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46,5",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3157,12 +3157,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "97",
     "waist_cm": "88,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3172,12 +3172,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "88",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3187,12 +3187,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "102",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3202,12 +3202,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3217,12 +3217,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37,5",
     "chest_cm": "95",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42,5",
     "sleeve_right_cm": "55",
     "sleeve_left_cm": "55",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3232,12 +3232,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "102",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3247,12 +3247,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "93",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3262,12 +3262,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "95",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3277,12 +3277,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "103",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "52",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3292,12 +3292,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "103",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3307,12 +3307,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "109",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3322,12 +3322,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "100",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3337,12 +3337,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43,5",
     "chest_cm": "100",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3352,12 +3352,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "106",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3367,12 +3367,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "100",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3382,12 +3382,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "109",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3397,12 +3397,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43,5",
     "chest_cm": "104",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42,5",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3412,12 +3412,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "100",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3427,12 +3427,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "104",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3442,12 +3442,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "112",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63,5",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3457,12 +3457,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "116",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3472,12 +3472,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44,5",
     "chest_cm": "110",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44,5",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3487,12 +3487,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "120",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3502,12 +3502,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "107",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3517,12 +3517,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "113",
     "waist_cm": "119",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "57",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3532,12 +3532,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "107",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3547,12 +3547,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "119",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3562,12 +3562,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "108,5",
     "waist_cm": "106,6",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3577,12 +3577,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "115",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3592,12 +3592,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "121",
     "waist_cm": "121",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3607,12 +3607,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "127",
     "waist_cm": "136",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3622,12 +3622,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "118",
     "waist_cm": "124",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3637,12 +3637,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "124",
     "waist_cm": "128",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3652,12 +3652,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46,5",
     "chest_cm": "122",
     "waist_cm": "138",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3667,12 +3667,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "127",
     "waist_cm": "132",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3682,12 +3682,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "118",
     "waist_cm": "131",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3697,12 +3697,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "82",
     "waist_cm": "71",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "59,4",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3712,12 +3712,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "85",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3727,12 +3727,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "85",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3742,12 +3742,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "91",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3757,12 +3757,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "84",
     "waist_cm": "73",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3772,12 +3772,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34,5",
     "chest_cm": "82",
     "waist_cm": "69",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "53",
     "sleeve_left_cm": "53",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3787,12 +3787,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "86",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3802,12 +3802,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "83",
     "waist_cm": "73",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3817,12 +3817,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "86",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3832,12 +3832,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35,5",
     "chest_cm": "98",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3847,12 +3847,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35,5",
     "chest_cm": "98",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3862,12 +3862,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "91",
     "waist_cm": "71",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3877,12 +3877,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "90",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3892,12 +3892,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "87",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3907,12 +3907,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "91",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "66,5",
     "sleeve_left_cm": "66,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3922,12 +3922,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "86",
     "waist_cm": "73",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3937,12 +3937,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3952,12 +3952,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "91",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3967,12 +3967,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "88",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3982,12 +3982,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "89",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -3997,12 +3997,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "88",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4012,12 +4012,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "89",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4027,12 +4027,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "90",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4042,12 +4042,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "92",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4057,12 +4057,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "86",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "61,5",
     "sleeve_left_cm": "61,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4072,12 +4072,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "90",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4087,12 +4087,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "102",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4102,12 +4102,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40,5",
     "chest_cm": "97",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4117,12 +4117,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "90",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "60,5",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4132,12 +4132,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "92",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4147,12 +4147,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "95",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4162,12 +4162,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "104",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63,5",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4177,12 +4177,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37,5",
     "chest_cm": "93",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4192,12 +4192,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "101",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4207,12 +4207,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "90",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4222,12 +4222,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "96",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4237,12 +4237,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "92",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4252,12 +4252,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4267,12 +4267,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "98",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4282,12 +4282,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "96",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4297,12 +4297,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "95",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4312,12 +4312,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "103",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4327,12 +4327,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "98",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41,5",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4342,12 +4342,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "96",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46,5",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4357,12 +4357,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "100",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4372,12 +4372,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "93",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42,5",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4387,12 +4387,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4402,12 +4402,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "101",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46,5",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4417,12 +4417,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "104",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4432,12 +4432,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4447,12 +4447,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "99",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4462,12 +4462,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "102",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4477,12 +4477,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "106",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4492,12 +4492,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "102",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4507,12 +4507,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42,5",
     "chest_cm": "107",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4522,12 +4522,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "104",
     "waist_cm": "89,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4537,12 +4537,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "107",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4552,12 +4552,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "104",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4567,12 +4567,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "108",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4582,12 +4582,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "102",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4597,12 +4597,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "104",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4612,12 +4612,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "112",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4627,12 +4627,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "107",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "57",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4642,12 +4642,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "108",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4657,12 +4657,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "108",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4672,12 +4672,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "100",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4687,12 +4687,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "105",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4702,12 +4702,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "111",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4717,12 +4717,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "113",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4732,12 +4732,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "109",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4747,12 +4747,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "111",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4762,12 +4762,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "118",
     "waist_cm": "116",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4777,12 +4777,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "120",
     "waist_cm": "122",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4792,12 +4792,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "119",
     "waist_cm": "126",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4807,12 +4807,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43,5",
     "chest_cm": "123",
     "waist_cm": "130",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4822,12 +4822,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "108",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4837,12 +4837,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "117",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4852,12 +4852,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "118",
     "waist_cm": "128",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "55",
     "sleeve_left_cm": "55",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4867,12 +4867,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "52",
     "chest_cm": "130",
     "waist_cm": "137",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4882,12 +4882,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "83",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4897,12 +4897,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "82",
     "waist_cm": "68",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4912,12 +4912,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "86",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4927,12 +4927,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36,5",
     "chest_cm": "80,5",
     "waist_cm": "69,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45,5",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4942,12 +4942,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "84",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "36",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4957,12 +4957,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "91",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4972,12 +4972,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "85",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -4987,12 +4987,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,2",
     "chest_cm": "92",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5002,12 +5002,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "88",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5017,12 +5017,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "90",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5032,12 +5032,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37,6",
     "chest_cm": "93",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5047,12 +5047,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "92",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5062,12 +5062,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "89",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5077,12 +5077,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "93,5",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43,5",
     "sleeve_right_cm": "65,5",
     "sleeve_left_cm": "65,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5092,12 +5092,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "94",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5107,12 +5107,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "90",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5122,12 +5122,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "91",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "55",
     "sleeve_left_cm": "55",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5137,12 +5137,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "92",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5152,12 +5152,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "100",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5167,12 +5167,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "92",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5182,12 +5182,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42,5",
     "chest_cm": "95",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61,5",
     "sleeve_left_cm": "61,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5197,12 +5197,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "51,5",
     "waist_cm": "45",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42,5",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5212,12 +5212,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "93",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5227,12 +5227,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37,5",
     "chest_cm": "91",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5242,12 +5242,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "60",
     "sleeve_right_cm": "52",
     "sleeve_left_cm": "52",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5257,12 +5257,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "94",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5272,12 +5272,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "92",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5287,12 +5287,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "97",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5302,12 +5302,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "94",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5317,12 +5317,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "102",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5332,12 +5332,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "103",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5347,12 +5347,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "108",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5362,12 +5362,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "98",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5377,12 +5377,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "95",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5392,12 +5392,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5407,12 +5407,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "102",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5422,12 +5422,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "97",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5437,12 +5437,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "102",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5452,12 +5452,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "92",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5467,12 +5467,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "102",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5482,12 +5482,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "103",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5497,12 +5497,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "105",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5512,12 +5512,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "105",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5527,12 +5527,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "99",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5542,12 +5542,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "105",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5557,12 +5557,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "111",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5572,12 +5572,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "98",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5587,12 +5587,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "105",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5602,12 +5602,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "105",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "58",
     "sleeve_right_cm": "54",
     "sleeve_left_cm": "54",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5617,12 +5617,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "101",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5632,12 +5632,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "109",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5647,12 +5647,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "112",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "55",
     "sleeve_left_cm": "55",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5662,12 +5662,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "115",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5677,12 +5677,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "108",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5692,12 +5692,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "108",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5707,12 +5707,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "117",
     "waist_cm": "111",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5722,12 +5722,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44,5",
     "chest_cm": "109",
     "waist_cm": "116",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44,5",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5737,12 +5737,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "117",
     "waist_cm": "130",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5752,12 +5752,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "106",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5767,12 +5767,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "120",
     "waist_cm": "123",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5782,12 +5782,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "50",
     "chest_cm": "120",
     "waist_cm": "118",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5797,12 +5797,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "113",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5812,12 +5812,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "52",
     "chest_cm": "118",
     "waist_cm": "128",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5827,12 +5827,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "120",
     "waist_cm": "132",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5842,12 +5842,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "128",
     "waist_cm": "128",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5857,12 +5857,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "120",
     "waist_cm": "130",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5872,12 +5872,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "70",
     "waist_cm": "70",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5887,12 +5887,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "31",
     "chest_cm": "85",
     "waist_cm": "64",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "36",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5902,12 +5902,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "80",
     "waist_cm": "70",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5917,12 +5917,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34,5",
     "chest_cm": "86",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5932,12 +5932,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "84",
     "waist_cm": "73",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5947,12 +5947,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "90",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5962,12 +5962,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "20",
     "chest_cm": "90",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5977,12 +5977,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "89",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -5992,12 +5992,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "83",
     "waist_cm": "73",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6007,12 +6007,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "84",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6022,12 +6022,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "80",
     "waist_cm": "70",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6037,12 +6037,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "33",
     "chest_cm": "85",
     "waist_cm": "73",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6052,12 +6052,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "33",
     "chest_cm": "87",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6067,12 +6067,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "92",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6082,12 +6082,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "87",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "61,5",
     "sleeve_left_cm": "61,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6097,12 +6097,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "86",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6112,12 +6112,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "88",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6127,12 +6127,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "83",
     "waist_cm": "73",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6142,12 +6142,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36,5",
     "chest_cm": "86",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42,5",
     "sleeve_right_cm": "56,5",
     "sleeve_left_cm": "56,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6157,12 +6157,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "93",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6172,12 +6172,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "87",
     "waist_cm": "70",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63,5",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6187,12 +6187,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37,5",
     "chest_cm": "89",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6202,12 +6202,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "90",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6217,12 +6217,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "90",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6232,12 +6232,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "94",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6247,12 +6247,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "85",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6262,12 +6262,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "79",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6277,12 +6277,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "93",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "19",
     "sleeve_left_cm": "19",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6292,12 +6292,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "93",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6307,12 +6307,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "95",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "115",
     "sleeve_left_cm": "116",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6322,12 +6322,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "88",
     "waist_cm": "71",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6337,12 +6337,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "90",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6352,12 +6352,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "91",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6367,12 +6367,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "95",
     "waist_cm": "81,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "39,5",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6382,12 +6382,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "33",
     "chest_cm": "92",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6397,12 +6397,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "93",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6412,12 +6412,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "90",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6427,12 +6427,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "89",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6442,12 +6442,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "88",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6457,12 +6457,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "91,5",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6472,12 +6472,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "87",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6487,12 +6487,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "99",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "61,5",
     "sleeve_left_cm": "61,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6502,12 +6502,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "103",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6517,12 +6517,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37,5",
     "chest_cm": "98",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6532,12 +6532,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "91",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6547,12 +6547,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "94",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6562,12 +6562,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "99",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "62,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6577,12 +6577,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "90",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6592,12 +6592,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "95",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6607,12 +6607,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "93",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41,5",
     "sleeve_right_cm": "64,5",
     "sleeve_left_cm": "64,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6622,12 +6622,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "91",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6637,12 +6637,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6652,12 +6652,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "97",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6667,12 +6667,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "98",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6682,12 +6682,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "97",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6697,12 +6697,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "95",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6712,12 +6712,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "94",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6727,12 +6727,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "93",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6742,12 +6742,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "91",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6757,12 +6757,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "91",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6772,12 +6772,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "98",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6787,12 +6787,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6802,12 +6802,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "97",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6817,12 +6817,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "102",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6832,12 +6832,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "102",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6847,12 +6847,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "105",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6862,12 +6862,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "89",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6877,12 +6877,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "96",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6892,12 +6892,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "104",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6907,12 +6907,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37,5",
     "chest_cm": "89",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6922,12 +6922,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "97",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6937,12 +6937,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "97",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6952,12 +6952,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6967,12 +6967,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "96",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6982,12 +6982,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -6997,12 +6997,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "99",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7012,12 +7012,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "96",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7027,12 +7027,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "99",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7042,12 +7042,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "105",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7057,12 +7057,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7072,12 +7072,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "91",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7087,12 +7087,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "104",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7102,12 +7102,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "102",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7117,12 +7117,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "95",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7132,12 +7132,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "97",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7147,12 +7147,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "98",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7162,12 +7162,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "94",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "53",
     "sleeve_left_cm": "53",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7177,12 +7177,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "98",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7192,12 +7192,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "100",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7207,12 +7207,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "96",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7222,12 +7222,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "98",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7237,12 +7237,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "99",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7252,12 +7252,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37,5",
     "chest_cm": "95",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7267,12 +7267,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "93",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7282,12 +7282,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "95",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7297,12 +7297,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "96",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7312,12 +7312,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "107",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7327,12 +7327,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "106",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7342,12 +7342,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "94",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7357,12 +7357,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "90",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7372,12 +7372,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "104",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7387,12 +7387,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "98",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7402,12 +7402,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "96",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7417,12 +7417,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "99",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7432,12 +7432,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34",
     "chest_cm": "92",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7447,12 +7447,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "100",
     "waist_cm": "97,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7462,12 +7462,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "103",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7477,12 +7477,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7492,12 +7492,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "105",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7507,12 +7507,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "54",
     "chest_cm": "134",
     "waist_cm": "132",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "58",
     "sleeve_right_cm": "74",
     "sleeve_left_cm": "74",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7522,12 +7522,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "93",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7537,12 +7537,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "100",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7552,12 +7552,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40,5",
     "chest_cm": "100",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "61,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7567,12 +7567,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7582,12 +7582,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "93",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43,5",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7597,12 +7597,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,2",
     "chest_cm": "110",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7612,12 +7612,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "98",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7627,12 +7627,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "99",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7642,12 +7642,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "98",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7657,12 +7657,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "108",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7672,12 +7672,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "101",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7687,12 +7687,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "108",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7702,12 +7702,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "96",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7717,12 +7717,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "99",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7732,12 +7732,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "102",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7747,12 +7747,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "99",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7762,12 +7762,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "97",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "65,5",
     "sleeve_left_cm": "64,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7777,12 +7777,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "99",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7792,12 +7792,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "104",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7807,12 +7807,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "114",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7822,12 +7822,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "103",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "39",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7837,12 +7837,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "95",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7852,12 +7852,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "94",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7867,12 +7867,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "105",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7882,12 +7882,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "104",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7897,12 +7897,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "103",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7912,12 +7912,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "99",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7927,12 +7927,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "104",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7942,12 +7942,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "105",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7957,12 +7957,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "103",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7972,12 +7972,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "105",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -7987,12 +7987,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "108",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8002,12 +8002,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "112",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "61,5",
     "sleeve_left_cm": "61,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8017,12 +8017,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "107",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8032,12 +8032,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "101",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8047,12 +8047,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "111",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8062,12 +8062,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "98",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8077,12 +8077,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "98",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8092,12 +8092,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43,5",
     "chest_cm": "102",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8107,12 +8107,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "109",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8122,12 +8122,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "109",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8137,12 +8137,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "103",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8152,12 +8152,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "101",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8167,12 +8167,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "102",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8182,12 +8182,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "112",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8197,12 +8197,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "96",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8212,12 +8212,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "101",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8227,12 +8227,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "102",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8242,12 +8242,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "101",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8257,12 +8257,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "100",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8272,12 +8272,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "100",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8287,12 +8287,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "104",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "55",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8302,12 +8302,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "110",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8317,12 +8317,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8332,12 +8332,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "103",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8347,12 +8347,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "102",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8362,12 +8362,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "111",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8377,12 +8377,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "103",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8392,12 +8392,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "112",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "100",
     "sleeve_left_cm": "98",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8407,12 +8407,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "103",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8422,12 +8422,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "99",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8437,12 +8437,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "104",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8452,12 +8452,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "109",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8467,12 +8467,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "111",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8482,12 +8482,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "118",
     "waist_cm": "120",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8497,12 +8497,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "104",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8512,12 +8512,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "104",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8527,12 +8527,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "104",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8542,12 +8542,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "107",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8557,12 +8557,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "111",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "70",
     "sleeve_left_cm": "69",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8572,12 +8572,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "108",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8587,12 +8587,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "110",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8602,12 +8602,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "104",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "64",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8617,12 +8617,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "110",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8632,12 +8632,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "107",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8647,12 +8647,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "111",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8662,12 +8662,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "107",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8677,12 +8677,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "100",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8692,12 +8692,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "109",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8707,12 +8707,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "111",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8722,12 +8722,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "112",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8737,12 +8737,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "110",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8752,12 +8752,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "115",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8767,12 +8767,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "109",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8782,12 +8782,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "104",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8797,12 +8797,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "112",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8812,12 +8812,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "111",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8827,12 +8827,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "101",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8842,12 +8842,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "110",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8857,12 +8857,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "112",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8872,12 +8872,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "112",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8887,12 +8887,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42,5",
     "chest_cm": "110",
     "waist_cm": "111",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "59",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8902,12 +8902,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "111",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8917,12 +8917,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "107",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50,5",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "62,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8932,12 +8932,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "118",
     "waist_cm": "128",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8947,12 +8947,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "116",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8962,12 +8962,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "118",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8977,12 +8977,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "113",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49,5",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -8992,12 +8992,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "117",
     "waist_cm": "116",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9007,12 +9007,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "118",
     "waist_cm": "117",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9022,12 +9022,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "118",
     "waist_cm": "117",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9037,12 +9037,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "113",
     "waist_cm": "122",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9052,12 +9052,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "118",
     "waist_cm": "129",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9067,12 +9067,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "119",
     "waist_cm": "118",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9082,12 +9082,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "107",
     "waist_cm": "120",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9097,12 +9097,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46,5",
     "chest_cm": "115",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9112,12 +9112,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "118",
     "waist_cm": "116",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "74",
     "sleeve_left_cm": "74",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9127,12 +9127,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "130",
     "waist_cm": "123",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9142,12 +9142,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "118",
     "waist_cm": "126",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9157,12 +9157,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "123",
     "waist_cm": "127",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9172,12 +9172,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "118",
     "waist_cm": "122",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9187,12 +9187,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "114",
     "waist_cm": "124",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9202,12 +9202,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "111",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9217,12 +9217,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "125",
     "waist_cm": "128",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9232,12 +9232,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "123",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "58",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9247,12 +9247,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "57",
     "chest_cm": "128",
     "waist_cm": "128",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9262,12 +9262,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "123",
     "waist_cm": "123",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9277,12 +9277,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "138",
     "waist_cm": "132",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9292,12 +9292,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "50",
     "chest_cm": "123",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9307,12 +9307,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "128",
     "waist_cm": "128",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9322,12 +9322,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "135",
     "waist_cm": "133",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9337,12 +9337,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "54",
     "chest_cm": "147",
     "waist_cm": "130",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9352,12 +9352,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "53",
     "chest_cm": "129",
     "waist_cm": "117",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9367,12 +9367,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "114",
     "waist_cm": "123",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9382,12 +9382,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "114",
     "waist_cm": "130",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9397,12 +9397,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "127",
     "waist_cm": "140",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "57",
     "sleeve_right_cm": "54",
     "sleeve_left_cm": "54",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9412,12 +9412,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "54",
     "chest_cm": "125",
     "waist_cm": "140",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "59",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9427,12 +9427,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "53",
     "chest_cm": "137",
     "waist_cm": "142",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9442,12 +9442,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "127",
     "waist_cm": "144",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "87",
     "sleeve_left_cm": "87",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9457,12 +9457,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "51",
     "chest_cm": "129",
     "waist_cm": "150",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9472,12 +9472,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "53",
     "chest_cm": "142",
     "waist_cm": "135",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9487,12 +9487,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "78",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9502,12 +9502,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "84",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9517,12 +9517,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "94",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "62,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9532,12 +9532,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34",
     "chest_cm": "88",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9547,12 +9547,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "88",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9562,12 +9562,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "90",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9577,12 +9577,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "90",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9592,12 +9592,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "90",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9607,12 +9607,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "70",
     "sleeve_left_cm": "70",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9622,12 +9622,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "94",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9637,12 +9637,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "94",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9652,12 +9652,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "93",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9667,12 +9667,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "96",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9682,12 +9682,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "93",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "61",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9697,12 +9697,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "93",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9712,12 +9712,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "95",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9727,12 +9727,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "103",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9742,12 +9742,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "97",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9757,12 +9757,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "99",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9772,12 +9772,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "89",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9787,12 +9787,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "98",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9802,12 +9802,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "100",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9817,12 +9817,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "100",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9832,12 +9832,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "98",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "57",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9847,12 +9847,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9862,12 +9862,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "97",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9877,12 +9877,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "101",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9892,12 +9892,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "98",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44,5",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9907,12 +9907,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "97",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9922,12 +9922,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "104",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9937,12 +9937,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9952,12 +9952,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9967,12 +9967,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "102",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "57",
     "sleeve_right_cm": "61,5",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9982,12 +9982,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "105",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -9997,12 +9997,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "103",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10012,12 +10012,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "100",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10027,12 +10027,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "100",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10042,12 +10042,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "91",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10057,12 +10057,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "101",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10072,12 +10072,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "102",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10087,12 +10087,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "103",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10102,12 +10102,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "92",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10117,12 +10117,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "104",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10132,12 +10132,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "100",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47,4",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10147,12 +10147,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10162,12 +10162,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "110",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10177,12 +10177,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "104",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10192,12 +10192,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "108",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10207,12 +10207,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "114",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10222,12 +10222,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "107",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10237,12 +10237,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "102",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10252,12 +10252,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "105",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10267,12 +10267,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "113",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10282,12 +10282,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "112",
     "waist_cm": "118",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10297,12 +10297,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "102",
     "waist_cm": "96,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45,5",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10312,12 +10312,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "112",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10327,12 +10327,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "105",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10342,12 +10342,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "103",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10357,12 +10357,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "108",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "62,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10372,12 +10372,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "105",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10387,12 +10387,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "109",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10402,12 +10402,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "114",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10417,12 +10417,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "110",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10432,12 +10432,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "114",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "58",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10447,12 +10447,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "110",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10462,12 +10462,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "104",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10477,12 +10477,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "120",
     "waist_cm": "116",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10492,12 +10492,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "113",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10507,12 +10507,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "112",
     "waist_cm": "116",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10522,12 +10522,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "110",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "64,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10537,12 +10537,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "110",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10552,12 +10552,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "114",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10567,12 +10567,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "118",
     "waist_cm": "123",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10582,12 +10582,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "130",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10597,12 +10597,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "119",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10612,12 +10612,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "122",
     "waist_cm": "119",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10627,12 +10627,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "124",
     "waist_cm": "127",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10642,12 +10642,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "125",
     "waist_cm": "130",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10657,12 +10657,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "54",
     "chest_cm": "131",
     "waist_cm": "127",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10672,12 +10672,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "124",
     "waist_cm": "132",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "54",
     "sleeve_left_cm": "54",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10687,12 +10687,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45,5",
     "chest_cm": "126",
     "waist_cm": "124",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10702,12 +10702,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "127",
     "waist_cm": "122",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10717,12 +10717,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34",
     "chest_cm": "83",
     "waist_cm": "70",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10732,12 +10732,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "87",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10747,12 +10747,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "84",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10762,12 +10762,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "85",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65,5",
     "sleeve_left_cm": "65,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10777,12 +10777,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34",
     "chest_cm": "87",
     "waist_cm": "71",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10792,12 +10792,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "79",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10807,12 +10807,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "89",
     "waist_cm": "73",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10822,12 +10822,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "83,5",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41,5",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10837,12 +10837,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "87",
     "waist_cm": "73",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10852,12 +10852,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "95",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10867,12 +10867,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "85",
     "waist_cm": "71",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10882,12 +10882,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "93",
     "waist_cm": "73",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10897,12 +10897,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34,9",
     "chest_cm": "90",
     "waist_cm": "76,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "39,5",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10912,12 +10912,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "85,5",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10927,12 +10927,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "92",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10942,12 +10942,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90,5",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10957,12 +10957,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "89",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10972,12 +10972,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "95",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -10987,12 +10987,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "30",
     "chest_cm": "90",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11002,12 +11002,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "93",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11017,12 +11017,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "93",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11032,12 +11032,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11047,12 +11047,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "92",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11062,12 +11062,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "96",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11077,12 +11077,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "95",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11092,12 +11092,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11107,12 +11107,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "93",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11122,12 +11122,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "94",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43,5",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11137,12 +11137,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "93,5",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11152,12 +11152,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "98",
     "waist_cm": "87,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11167,12 +11167,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "103",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11182,12 +11182,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "98",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11197,12 +11197,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "96",
     "waist_cm": "82,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11212,12 +11212,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "93",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11227,12 +11227,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "100",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11242,12 +11242,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "98",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63,5",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11257,12 +11257,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "95",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11272,12 +11272,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "94",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11287,12 +11287,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "98",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11302,12 +11302,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "91",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11317,12 +11317,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "98",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45,5",
     "sleeve_right_cm": "66,5",
     "sleeve_left_cm": "66,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11332,12 +11332,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "110",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11347,12 +11347,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "110",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11362,12 +11362,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "94",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11377,12 +11377,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "101",
     "waist_cm": "89,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49,5",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11392,12 +11392,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "101,5",
     "waist_cm": "94,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11407,12 +11407,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "99",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11422,12 +11422,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "101",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11437,12 +11437,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "94",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11452,12 +11452,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "94",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11467,12 +11467,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11482,12 +11482,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "100",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "65,5",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11497,12 +11497,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "92",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11512,12 +11512,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "98",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11527,12 +11527,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "97",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11542,12 +11542,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11557,12 +11557,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "105",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11572,12 +11572,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "100",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11587,12 +11587,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "96",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11602,12 +11602,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "93",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11617,12 +11617,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "96",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11632,12 +11632,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "99",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11647,12 +11647,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "110",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "71",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11662,12 +11662,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "104",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "37",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11677,12 +11677,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40,5",
     "chest_cm": "101",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11692,12 +11692,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11707,12 +11707,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "99",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11722,12 +11722,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "97",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11737,12 +11737,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "96",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11752,12 +11752,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "103",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11767,12 +11767,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "103",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11782,12 +11782,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11797,12 +11797,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "107",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11812,12 +11812,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "98",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11827,12 +11827,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "108",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11842,12 +11842,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "106",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "72",
     "sleeve_left_cm": "72",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11857,12 +11857,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "103",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11872,12 +11872,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "101",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11887,12 +11887,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "105",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11902,12 +11902,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "101",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49,5",
     "sleeve_right_cm": "69",
     "sleeve_left_cm": "69",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11917,12 +11917,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "107",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11932,12 +11932,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "112",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11947,12 +11947,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "103",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11962,12 +11962,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "102",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11977,12 +11977,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "102",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "62,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -11992,12 +11992,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "112",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12007,12 +12007,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "107,5",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12022,12 +12022,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "109",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12037,12 +12037,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45,5",
     "chest_cm": "110",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12052,12 +12052,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "100,5",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12067,12 +12067,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43,5",
     "chest_cm": "107",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12082,12 +12082,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "109",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12097,12 +12097,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "111",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12112,12 +12112,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "105",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "69",
     "sleeve_left_cm": "69",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12127,12 +12127,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "96",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "57",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12142,12 +12142,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "110",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12157,12 +12157,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "109",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12172,12 +12172,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45,5",
     "chest_cm": "111",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12187,12 +12187,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47,5",
     "chest_cm": "119",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12202,12 +12202,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "55",
     "waist_cm": "130",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12217,12 +12217,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "110",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12232,12 +12232,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "105",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12247,12 +12247,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "107",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12262,12 +12262,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "114",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12277,12 +12277,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "118",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12292,12 +12292,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43,5",
     "chest_cm": "108",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12307,12 +12307,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "118",
     "waist_cm": "120",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12322,12 +12322,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "115",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12337,12 +12337,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "54",
     "chest_cm": "124",
     "waist_cm": "132",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12352,12 +12352,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "116",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12367,12 +12367,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "52",
     "chest_cm": "130",
     "waist_cm": "135",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "57",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12382,12 +12382,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "114",
     "waist_cm": "121",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12397,12 +12397,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "118",
     "waist_cm": "123",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "59",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12412,12 +12412,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "109",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12427,12 +12427,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "120",
     "waist_cm": "128",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12442,12 +12442,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "124",
     "waist_cm": "118",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12457,12 +12457,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "119",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12472,12 +12472,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "124",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12487,12 +12487,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "128",
     "waist_cm": "128",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12502,12 +12502,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "117",
     "waist_cm": "117",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12517,12 +12517,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "113",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12532,12 +12532,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "126",
     "waist_cm": "126",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12547,12 +12547,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "132",
     "waist_cm": "133",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12562,12 +12562,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "127",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12577,12 +12577,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "125",
     "waist_cm": "139",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12592,12 +12592,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "50",
     "chest_cm": "131",
     "waist_cm": "132",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "53",
     "sleeve_left_cm": "55",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12607,12 +12607,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "125",
     "waist_cm": "135",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12622,12 +12622,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "56",
     "chest_cm": "140",
     "waist_cm": "160",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "65",
     "sleeve_right_cm": "52",
     "sleeve_left_cm": "52",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12637,12 +12637,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "55",
     "chest_cm": "137",
     "waist_cm": "132",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12652,12 +12652,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "139",
     "waist_cm": "165",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12667,12 +12667,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "154",
     "waist_cm": "173",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "63,5",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12682,12 +12682,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "83",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12697,12 +12697,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "90",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12712,12 +12712,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "88",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12727,12 +12727,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "73",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12742,12 +12742,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "90",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12757,12 +12757,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36,5",
     "chest_cm": "86",
     "waist_cm": "78,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12772,12 +12772,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "90",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61,5",
     "sleeve_left_cm": "61,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12787,12 +12787,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "91",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12802,12 +12802,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12817,12 +12817,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12832,12 +12832,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "94",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12847,12 +12847,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "88",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12862,12 +12862,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "89",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12877,12 +12877,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "89",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12892,12 +12892,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "90",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "69",
     "sleeve_left_cm": "69",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12907,12 +12907,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "88",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12922,12 +12922,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "61,5",
     "sleeve_left_cm": "61,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12937,12 +12937,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "95",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65,5",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12952,12 +12952,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "95",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12967,12 +12967,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37,5",
     "chest_cm": "92",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12982,12 +12982,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "88",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -12997,12 +12997,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37,5",
     "chest_cm": "100",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13012,12 +13012,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "87",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "39",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13027,12 +13027,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "93",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13042,12 +13042,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "96",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13057,12 +13057,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13072,12 +13072,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "97",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44,5",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13087,12 +13087,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "102",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "58,5",
     "sleeve_left_cm": "58,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13102,12 +13102,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "87",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "38",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13117,12 +13117,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37,5",
     "chest_cm": "98,5",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13132,12 +13132,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "94",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13147,12 +13147,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "92",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13162,12 +13162,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "87",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13177,12 +13177,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "102",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "71",
     "sleeve_left_cm": "71",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13192,12 +13192,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "98",
     "waist_cm": "92,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42,5",
     "sleeve_right_cm": "65,5",
     "sleeve_left_cm": "65,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13207,12 +13207,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "103",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13222,12 +13222,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "91",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13237,12 +13237,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "99",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13252,12 +13252,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "101",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13267,12 +13267,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "88",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13282,12 +13282,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "91",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13297,12 +13297,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42,5",
     "chest_cm": "98",
     "waist_cm": "83,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13312,12 +13312,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "99",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13327,12 +13327,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "87",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13342,12 +13342,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "91,5",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "61,5",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13357,12 +13357,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "99",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13372,12 +13372,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "91",
     "waist_cm": "80,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13387,12 +13387,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "97",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13402,12 +13402,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "91",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13417,12 +13417,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "94",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13432,12 +13432,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "104",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13447,12 +13447,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "95",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13462,12 +13462,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "99,5",
     "waist_cm": "92,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13477,12 +13477,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "87",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13492,12 +13492,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "94,5",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "64,5",
     "sleeve_left_cm": "64,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13507,12 +13507,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "96",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13522,12 +13522,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "102",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13537,12 +13537,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "95",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13552,12 +13552,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "97",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13567,12 +13567,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "96",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13582,12 +13582,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "99",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13597,12 +13597,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "98",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13612,12 +13612,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "96",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13627,12 +13627,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "98",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13642,12 +13642,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "102",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13657,12 +13657,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "98",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13672,12 +13672,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "104",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13687,12 +13687,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "97",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13702,12 +13702,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "102",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13717,12 +13717,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "101",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "62,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13732,12 +13732,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "97",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13747,12 +13747,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "98",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13762,12 +13762,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "96",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13777,12 +13777,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "93",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "69",
     "sleeve_left_cm": "69",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13792,12 +13792,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "100",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13807,12 +13807,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "101",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13822,12 +13822,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "98",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13837,12 +13837,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42-43",
     "chest_cm": "101",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13852,12 +13852,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "108",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13867,12 +13867,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "97",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13882,12 +13882,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "104",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "77",
     "sleeve_left_cm": "77",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13897,12 +13897,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "93",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13912,12 +13912,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13927,12 +13927,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "108",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13942,12 +13942,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "104",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13957,12 +13957,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "102",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13972,12 +13972,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "97",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "61,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -13987,12 +13987,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "99",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "61,5",
     "sleeve_left_cm": "61,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14002,12 +14002,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "106",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14017,12 +14017,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "101",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14032,12 +14032,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "103",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14047,12 +14047,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "108",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14062,12 +14062,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "98",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41,5",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14077,12 +14077,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "98",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41,5",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14092,12 +14092,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,7",
     "chest_cm": "97,1",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14107,12 +14107,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "102",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14122,12 +14122,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "105",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14137,12 +14137,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "114",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14152,12 +14152,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "108",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14167,12 +14167,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "110",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48,5",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14182,12 +14182,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "107",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14197,12 +14197,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "104",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14212,12 +14212,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "12",
     "chest_cm": "97",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14227,12 +14227,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "109",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14242,12 +14242,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "103",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14257,12 +14257,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "102",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14272,12 +14272,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "109",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14287,12 +14287,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "105",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14302,12 +14302,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "108",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14317,12 +14317,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "50",
     "chest_cm": "110",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14332,12 +14332,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "106",
     "waist_cm": "105,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14347,12 +14347,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "108",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14362,12 +14362,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "102",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14377,12 +14377,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "104",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14392,12 +14392,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "107",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14407,12 +14407,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "112",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14422,12 +14422,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "108",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14437,12 +14437,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "110",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14452,12 +14452,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "110",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14467,12 +14467,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "108",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14482,12 +14482,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "105",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14497,12 +14497,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "107",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14512,12 +14512,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "116",
     "waist_cm": "116",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14527,12 +14527,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "107",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14542,12 +14542,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42,5",
     "chest_cm": "103",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47,5",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "62,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14557,12 +14557,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "114",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14572,12 +14572,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "114",
     "waist_cm": "121",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14587,12 +14587,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "114",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14602,12 +14602,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "111",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14617,12 +14617,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "115",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14632,12 +14632,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "117",
     "waist_cm": "121",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14647,12 +14647,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "101",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14662,12 +14662,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "112",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14677,12 +14677,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "118",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14692,12 +14692,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "118",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14707,12 +14707,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "108",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14722,12 +14722,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46,5",
     "chest_cm": "107",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14737,12 +14737,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "115",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14752,12 +14752,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "113",
     "waist_cm": "122",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14767,12 +14767,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "107",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14782,12 +14782,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "120",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "65,5",
     "sleeve_left_cm": "64,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14797,12 +14797,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "115",
     "waist_cm": "122",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14812,12 +14812,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "116",
     "waist_cm": "123",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14827,12 +14827,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "106",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14842,12 +14842,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "113",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "71",
     "sleeve_left_cm": "71",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14857,12 +14857,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "118",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14872,12 +14872,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "114",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14887,12 +14887,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "120",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14902,12 +14902,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "52",
     "chest_cm": "116",
     "waist_cm": "120",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14917,12 +14917,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "116",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14932,12 +14932,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "116",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14947,12 +14947,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "117",
     "waist_cm": "122",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14962,12 +14962,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "122",
     "waist_cm": "124",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14977,12 +14977,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "119",
     "waist_cm": "130",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -14992,12 +14992,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "121",
     "waist_cm": "121",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15007,12 +15007,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "52",
     "chest_cm": "117",
     "waist_cm": "124",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15022,12 +15022,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "121",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15037,12 +15037,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "118",
     "waist_cm": "124",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15052,12 +15052,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "123",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15067,12 +15067,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "125",
     "waist_cm": "130",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15082,12 +15082,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "122",
     "waist_cm": "123",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "59",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15097,12 +15097,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "56",
     "chest_cm": "135",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "59",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15112,12 +15112,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "53",
     "chest_cm": "129",
     "waist_cm": "135",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15127,12 +15127,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "129",
     "waist_cm": "128",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15142,12 +15142,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "126",
     "waist_cm": "123",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15157,12 +15157,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "130",
     "waist_cm": "134",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15172,12 +15172,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "51",
     "chest_cm": "138",
     "waist_cm": "143",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15187,12 +15187,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "52",
     "chest_cm": "148",
     "waist_cm": "153",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "62",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15202,12 +15202,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "52",
     "chest_cm": "146",
     "waist_cm": "177",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "61",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15217,12 +15217,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34",
     "chest_cm": "82",
     "waist_cm": "71",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "36",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15232,12 +15232,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "83",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15247,12 +15247,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "94",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15262,12 +15262,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "90",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15277,12 +15277,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "91",
     "waist_cm": "70",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15292,12 +15292,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "85",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43,5",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15307,12 +15307,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "95",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15322,12 +15322,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "94",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15337,12 +15337,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "92",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15352,12 +15352,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15367,12 +15367,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37,5",
     "chest_cm": "86,8",
     "waist_cm": "74,7",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15382,12 +15382,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "94",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15397,12 +15397,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "91",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15412,12 +15412,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "93",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15427,12 +15427,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15442,12 +15442,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "94",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15457,12 +15457,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "88,5",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15472,12 +15472,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "88",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "38",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15487,12 +15487,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "90",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15502,12 +15502,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "92",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15517,12 +15517,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "95",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15532,12 +15532,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "92",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15547,12 +15547,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "90,5",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15562,12 +15562,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15577,12 +15577,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "90",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15592,12 +15592,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "90",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15607,12 +15607,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40,5",
     "chest_cm": "98",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41,6",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15622,12 +15622,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "92",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41,5",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15637,12 +15637,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "96",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15652,12 +15652,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "96",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15667,12 +15667,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "96",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46,5",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "62,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15682,12 +15682,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "95",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15697,12 +15697,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "95",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15712,12 +15712,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "99",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "62,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15727,12 +15727,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "98",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49,5",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15742,12 +15742,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90,5",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15757,12 +15757,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15772,12 +15772,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37,5",
     "chest_cm": "94",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15787,12 +15787,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "97",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "57",
     "sleeve_right_cm": "64,5",
     "sleeve_left_cm": "64,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15802,12 +15802,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "103",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15817,12 +15817,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15832,12 +15832,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "95",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "59,5",
     "sleeve_left_cm": "59,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15847,12 +15847,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "97",
     "waist_cm": "58",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15862,12 +15862,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37,5",
     "chest_cm": "104",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15877,12 +15877,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "104",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15892,12 +15892,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "92",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15907,12 +15907,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "97",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15922,12 +15922,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "98",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15937,12 +15937,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "95",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15952,12 +15952,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "99",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15967,12 +15967,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "96",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15982,12 +15982,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "100",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -15997,12 +15997,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40,5",
     "chest_cm": "100",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16012,12 +16012,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "97",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "65,5",
     "sleeve_left_cm": "65,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16027,12 +16027,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "96",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "70",
     "sleeve_left_cm": "70",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16042,12 +16042,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "99",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16057,12 +16057,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "97",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16072,12 +16072,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "105",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16087,12 +16087,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "92",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "66,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16102,12 +16102,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "94",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "38",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16117,12 +16117,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "99",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16132,12 +16132,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "101",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16147,12 +16147,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "100",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16162,12 +16162,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "100",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16177,12 +16177,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "100,5",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47,5",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16192,12 +16192,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16207,12 +16207,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16222,12 +16222,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16237,12 +16237,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "103",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16252,12 +16252,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "99",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16267,12 +16267,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "112",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "664",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16282,12 +16282,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "103",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16297,12 +16297,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "103",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16312,12 +16312,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "104",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16327,12 +16327,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "102",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16342,12 +16342,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "105",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16357,12 +16357,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "100",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "76",
     "sleeve_left_cm": "76",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16372,12 +16372,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "104",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16387,12 +16387,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "92",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16402,12 +16402,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "100",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45,5",
     "sleeve_right_cm": "64,5",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16417,12 +16417,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "114",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16432,12 +16432,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "95",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "54",
     "sleeve_left_cm": "54",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16447,12 +16447,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "106",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16462,12 +16462,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "105",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16477,12 +16477,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "113",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16492,12 +16492,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,2",
     "chest_cm": "104",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45,1",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16507,12 +16507,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42,5",
     "chest_cm": "110",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16522,12 +16522,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "106",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "78",
     "sleeve_left_cm": "79",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16537,12 +16537,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "110",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16552,12 +16552,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "112",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16567,12 +16567,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "110",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16582,12 +16582,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "106",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16597,12 +16597,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "110",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43,5",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16612,12 +16612,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,8",
     "chest_cm": "108",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45,8",
     "sleeve_right_cm": "85",
     "sleeve_left_cm": "85",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16627,12 +16627,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "109",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16642,12 +16642,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "114",
     "waist_cm": "122",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16657,12 +16657,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "112",
     "waist_cm": "126",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16672,12 +16672,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "118",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16687,12 +16687,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "116",
     "waist_cm": "122",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16702,12 +16702,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "110",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16717,12 +16717,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42,5",
     "chest_cm": "108",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "64,5",
     "sleeve_left_cm": "64,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16732,12 +16732,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "111",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16747,12 +16747,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "115",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16762,12 +16762,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "110",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16777,12 +16777,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "110",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16792,12 +16792,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "111",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16807,12 +16807,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44,5",
     "chest_cm": "117",
     "waist_cm": "113,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51,5",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16822,12 +16822,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "112",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16837,12 +16837,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "124",
     "waist_cm": "126",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16852,12 +16852,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "144",
     "waist_cm": "132",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16867,12 +16867,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "112",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16882,12 +16882,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "116",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "56",
     "sleeve_left_cm": "56",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16897,12 +16897,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "118",
     "waist_cm": "117",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16912,12 +16912,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "115",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16927,12 +16927,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "112",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16942,12 +16942,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "112",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16957,12 +16957,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "114",
     "waist_cm": "122",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16972,12 +16972,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "124",
     "waist_cm": "127",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -16987,12 +16987,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "118",
     "waist_cm": "118",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17002,12 +17002,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "115",
     "waist_cm": "119",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17017,12 +17017,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "121",
     "waist_cm": "121",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17032,12 +17032,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "112",
     "waist_cm": "120",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17047,12 +17047,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "124",
     "waist_cm": "123",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48,5",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17062,12 +17062,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "126",
     "waist_cm": "127",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17077,12 +17077,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "134",
     "waist_cm": "148",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49,9",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17092,12 +17092,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "125",
     "waist_cm": "119",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17107,12 +17107,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "130",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17122,12 +17122,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "138",
     "waist_cm": "132",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "60",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17137,12 +17137,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "125",
     "waist_cm": "137",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17152,12 +17152,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "85",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17167,12 +17167,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "84",
     "waist_cm": "67",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "38",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17182,12 +17182,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "78",
     "waist_cm": "71",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17197,12 +17197,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "89",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17212,12 +17212,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "88",
     "waist_cm": "71,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17227,12 +17227,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "89",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17242,12 +17242,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "89",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17257,12 +17257,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "94",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17272,12 +17272,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36,5",
     "chest_cm": "86",
     "waist_cm": "70",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17287,12 +17287,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "89",
     "waist_cm": "73",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17302,12 +17302,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "93",
     "waist_cm": "74,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "66,5",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17317,12 +17317,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34",
     "chest_cm": "92",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17332,12 +17332,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "91",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17347,12 +17347,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "90",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17362,12 +17362,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "73",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17377,12 +17377,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "95",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17392,12 +17392,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "87",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17407,12 +17407,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "93",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17422,12 +17422,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "87",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17437,12 +17437,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "90",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17452,12 +17452,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "93",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17467,12 +17467,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "97",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17482,12 +17482,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "92",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17497,12 +17497,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "90",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17512,12 +17512,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "89",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17527,12 +17527,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "96",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17542,12 +17542,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "90",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17557,12 +17557,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "86",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17572,12 +17572,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "90",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17587,12 +17587,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "97",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17602,12 +17602,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "94",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17617,12 +17617,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "94",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17632,12 +17632,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "91",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17647,12 +17647,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "92",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17662,12 +17662,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "98",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17677,12 +17677,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "100",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17692,12 +17692,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "95",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17707,12 +17707,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "92",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17722,12 +17722,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "95",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17737,12 +17737,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "91",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17752,12 +17752,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "95",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17767,12 +17767,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "89",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17782,12 +17782,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "90",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17797,12 +17797,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "99",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17812,12 +17812,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "93",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17827,12 +17827,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "100",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17842,12 +17842,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "91",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17857,12 +17857,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "96,5",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17872,12 +17872,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "96",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17887,12 +17887,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "103,5",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44,5",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17902,12 +17902,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "92",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17917,12 +17917,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,8",
     "chest_cm": "93,5",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17932,12 +17932,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "93",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17947,12 +17947,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "87",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17962,12 +17962,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17977,12 +17977,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "93",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -17992,12 +17992,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "95",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63,2",
     "sleeve_left_cm": "63,2",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18007,12 +18007,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "97",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18022,12 +18022,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "99",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18037,12 +18037,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "102",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18052,12 +18052,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18067,12 +18067,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "106",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18082,12 +18082,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "95",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18097,12 +18097,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "98",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "70",
     "sleeve_left_cm": "70",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18112,12 +18112,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "107",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18127,12 +18127,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "102",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18142,12 +18142,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "104",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18157,12 +18157,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "97",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18172,12 +18172,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "102",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18187,12 +18187,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "100",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18202,12 +18202,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "102",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18217,12 +18217,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "33",
     "chest_cm": "105",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "65",
     "sleeve_right_cm": "102",
     "sleeve_left_cm": "102",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18232,12 +18232,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "105",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18247,12 +18247,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "102",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18262,12 +18262,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "108",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18277,12 +18277,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "102",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18292,12 +18292,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "106",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18307,12 +18307,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "105",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18322,12 +18322,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "101",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18337,12 +18337,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "102",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "70",
     "sleeve_left_cm": "70",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18352,12 +18352,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "97",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "37",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18367,12 +18367,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "105",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18382,12 +18382,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "96",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18397,12 +18397,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "103",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18412,12 +18412,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "109",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "69",
     "sleeve_left_cm": "69",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18427,12 +18427,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "110",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18442,12 +18442,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "102",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18457,12 +18457,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "102",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18472,12 +18472,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "102",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18487,12 +18487,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "99",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18502,12 +18502,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40,5",
     "chest_cm": "100",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45,5",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18517,12 +18517,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "98",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18532,12 +18532,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "110",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18547,12 +18547,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "103",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18562,12 +18562,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18577,12 +18577,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "97",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18592,12 +18592,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "95",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18607,12 +18607,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "100",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18622,12 +18622,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "108",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18637,12 +18637,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "106",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18652,12 +18652,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "110",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18667,12 +18667,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18682,12 +18682,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "104",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18697,12 +18697,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "108",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18712,12 +18712,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "117",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18727,12 +18727,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "101",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18742,12 +18742,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "105",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18757,12 +18757,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "105",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18772,12 +18772,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "100",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18787,12 +18787,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "110",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18802,12 +18802,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "105",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18817,12 +18817,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "107",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18832,12 +18832,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "105",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18847,12 +18847,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "101",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18862,12 +18862,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "102",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18877,12 +18877,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "105",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18892,12 +18892,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "105",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18907,12 +18907,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40,5",
     "chest_cm": "106",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "58",
     "sleeve_right_cm": "69",
     "sleeve_left_cm": "69",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18922,12 +18922,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "110",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18937,12 +18937,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "117",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18952,12 +18952,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "114",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18967,12 +18967,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "102",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "61,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18982,12 +18982,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "110",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "58",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -18997,12 +18997,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "114",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19012,12 +19012,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "102",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "55",
     "sleeve_left_cm": "55",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19027,12 +19027,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "103",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19042,12 +19042,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "107",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19057,12 +19057,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "108",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19072,12 +19072,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "112",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19087,12 +19087,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "108",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19102,12 +19102,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "104",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19117,12 +19117,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "103",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19132,12 +19132,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "104",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19147,12 +19147,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "105",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19162,12 +19162,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45,5",
     "chest_cm": "110",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19177,12 +19177,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "104",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19192,12 +19192,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "94",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19207,12 +19207,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "113",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19222,12 +19222,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "103",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19237,12 +19237,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "103",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19252,12 +19252,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "105",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19267,12 +19267,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "112",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19282,12 +19282,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "113",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19297,12 +19297,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "100",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19312,12 +19312,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "113",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19327,12 +19327,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "110",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19342,12 +19342,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "105",
     "waist_cm": "111",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19357,12 +19357,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "110",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19372,12 +19372,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "106",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19387,12 +19387,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44,5",
     "chest_cm": "108",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19402,12 +19402,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "113",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "65,5",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19417,12 +19417,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "107",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19432,12 +19432,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "118",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19447,12 +19447,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "108",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19462,12 +19462,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "120",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19477,12 +19477,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "107",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19492,12 +19492,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "115",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19507,12 +19507,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "52",
     "chest_cm": "118",
     "waist_cm": "123",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19522,12 +19522,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "120",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19537,12 +19537,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "110",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19552,12 +19552,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "117",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19567,12 +19567,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "119",
     "waist_cm": "118",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19582,12 +19582,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "110",
     "waist_cm": "111",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19597,12 +19597,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "123",
     "waist_cm": "120",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19612,12 +19612,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "105",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19627,12 +19627,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "116",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19642,12 +19642,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "106",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19657,12 +19657,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "112",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19672,12 +19672,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "114",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19687,12 +19687,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "113",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19702,12 +19702,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "111",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "60",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19717,12 +19717,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "117",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19732,12 +19732,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "120",
     "waist_cm": "119",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19747,12 +19747,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "123",
     "waist_cm": "130",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19762,12 +19762,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "130",
     "waist_cm": "130",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19777,12 +19777,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "60",
     "waist_cm": "135",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19792,12 +19792,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "110",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19807,12 +19807,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "112",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "57",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19822,12 +19822,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "114",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19837,12 +19837,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "113",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19852,12 +19852,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "117",
     "waist_cm": "119",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19867,12 +19867,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "107",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19882,12 +19882,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "109",
     "waist_cm": "116",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19897,12 +19897,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "115",
     "waist_cm": "122",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19912,12 +19912,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "116",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19927,12 +19927,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "50",
     "chest_cm": "124",
     "waist_cm": "128",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19942,12 +19942,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43,5",
     "chest_cm": "144",
     "waist_cm": "138",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19957,12 +19957,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "120",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19972,12 +19972,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "114",
     "waist_cm": "117",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -19987,12 +19987,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "124",
     "waist_cm": "118",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "58",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20002,12 +20002,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "123",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20017,12 +20017,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "134",
     "waist_cm": "129",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20032,12 +20032,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "119",
     "waist_cm": "130",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20047,12 +20047,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "110",
     "waist_cm": "111",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20062,12 +20062,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "128",
     "waist_cm": "127",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "60",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20077,12 +20077,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "124",
     "waist_cm": "134",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20092,12 +20092,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "129",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20107,12 +20107,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "50",
     "chest_cm": "129",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20122,12 +20122,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "51",
     "chest_cm": "134",
     "waist_cm": "136",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20137,12 +20137,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "127",
     "waist_cm": "138",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20152,12 +20152,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "124",
     "waist_cm": "146",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20167,12 +20167,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "149",
     "waist_cm": "145",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20182,12 +20182,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "142",
     "waist_cm": "160",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "65",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20197,12 +20197,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43,5",
     "chest_cm": "123",
     "waist_cm": "145",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20212,12 +20212,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "133",
     "waist_cm": "146",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20227,12 +20227,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "99",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20242,12 +20242,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "88",
     "waist_cm": "73",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20257,12 +20257,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "88",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20272,12 +20272,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "90",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20287,12 +20287,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "94",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "61,5",
     "sleeve_left_cm": "61,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20302,12 +20302,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "93",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20317,12 +20317,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "95",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20332,12 +20332,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "94",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20347,12 +20347,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "102",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65,5",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20362,12 +20362,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "96",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20377,12 +20377,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "84",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20392,12 +20392,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "55",
     "waist_cm": "50",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "60",
     "sleeve_right_cm": "100",
     "sleeve_left_cm": "100",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20407,12 +20407,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "97",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20422,12 +20422,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "95",
     "waist_cm": "57",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20437,12 +20437,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "92",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20452,12 +20452,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "85",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20467,12 +20467,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "87",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20482,12 +20482,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "98",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20497,12 +20497,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "93",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20512,12 +20512,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20527,12 +20527,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "124",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "60",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20542,12 +20542,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "97",
     "waist_cm": "82,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20557,12 +20557,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "93",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20572,12 +20572,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "80",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20587,12 +20587,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "99",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20602,12 +20602,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "97",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20617,12 +20617,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "97",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "58",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20632,12 +20632,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "99",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20647,12 +20647,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "95",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20662,12 +20662,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,3",
     "chest_cm": "100",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46,7",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "62,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20677,12 +20677,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "99",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20692,12 +20692,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "99",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20707,12 +20707,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "102",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "59",
     "sleeve_right_cm": "70",
     "sleeve_left_cm": "70",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20722,12 +20722,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "100",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20737,12 +20737,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20752,12 +20752,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "97",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20767,12 +20767,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "96",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20782,12 +20782,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "106",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20797,12 +20797,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "92",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20812,12 +20812,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "103",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20827,12 +20827,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "96",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20842,12 +20842,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "96",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20857,12 +20857,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "97",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20872,12 +20872,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "102",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20887,12 +20887,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "102",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20902,12 +20902,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "104",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20917,12 +20917,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "100",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20932,12 +20932,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "102",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "62,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20947,12 +20947,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "104",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20962,12 +20962,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "94",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "66,5",
     "sleeve_left_cm": "65,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20977,12 +20977,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -20992,12 +20992,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "103",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21007,12 +21007,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "107",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43,5",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21022,12 +21022,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "104",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21037,12 +21037,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "104",
     "waist_cm": "99",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21052,12 +21052,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "106",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21067,12 +21067,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "105",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21082,12 +21082,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "105",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21097,12 +21097,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "101",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21112,12 +21112,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "102",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21127,12 +21127,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "110",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63,5",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21142,12 +21142,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "110",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63,5",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21157,12 +21157,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "110",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63,5",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21172,12 +21172,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "110",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63,5",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21187,12 +21187,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "110",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63,5",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21202,12 +21202,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "90,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21217,12 +21217,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "105",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21232,12 +21232,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "102",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21247,12 +21247,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "104",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21262,12 +21262,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "105",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21277,12 +21277,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "114",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "60",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21292,12 +21292,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "105",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21307,12 +21307,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "106",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21322,12 +21322,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "108",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21337,12 +21337,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "106",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21352,12 +21352,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "110",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21367,12 +21367,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "109",
     "waist_cm": "106",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21382,12 +21382,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "112,5",
     "waist_cm": "130",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21397,12 +21397,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "57",
     "waist_cm": "57",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21412,12 +21412,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "106",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21427,12 +21427,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "106",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21442,12 +21442,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "108",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21457,12 +21457,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "109",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21472,12 +21472,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "61",
     "waist_cm": "59",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21487,12 +21487,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42,5",
     "chest_cm": "114,5",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21502,12 +21502,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "112",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21517,12 +21517,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "106",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21532,12 +21532,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "114",
     "waist_cm": "52",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21547,12 +21547,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "115",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "59",
     "sleeve_right_cm": "59",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21562,12 +21562,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40,5",
     "chest_cm": "109",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21577,12 +21577,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "115",
     "waist_cm": "120",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "68,5",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21592,12 +21592,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "110",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21607,12 +21607,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "111",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21622,12 +21622,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "108",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "57",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21637,12 +21637,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "105",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21652,12 +21652,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "122",
     "waist_cm": "111",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21667,12 +21667,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "116",
     "waist_cm": "116",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21682,12 +21682,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "110",
     "waist_cm": "118",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "38",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21697,12 +21697,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "124",
     "waist_cm": "120",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21712,12 +21712,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "120",
     "waist_cm": "120",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21727,12 +21727,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "104",
     "waist_cm": "101",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21742,12 +21742,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "119",
     "waist_cm": "119",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21757,12 +21757,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "119",
     "waist_cm": "119",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21772,12 +21772,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "109",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21787,12 +21787,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "114",
     "waist_cm": "121",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21802,12 +21802,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "118",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21817,12 +21817,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "117",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21832,12 +21832,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "118",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21847,12 +21847,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "113",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21862,12 +21862,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "116",
     "waist_cm": "122",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "73",
     "sleeve_left_cm": "73",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21877,12 +21877,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48,5",
     "chest_cm": "103",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50,5",
     "sleeve_right_cm": "62,5",
     "sleeve_left_cm": "62,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21892,12 +21892,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "130",
     "waist_cm": "127",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21907,12 +21907,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "49",
     "chest_cm": "132",
     "waist_cm": "128",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21922,12 +21922,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42,5",
     "chest_cm": "115",
     "waist_cm": "135",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21937,12 +21937,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "51",
     "chest_cm": "128",
     "waist_cm": "136",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21952,12 +21952,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "47",
     "chest_cm": "126",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21967,12 +21967,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "120",
     "waist_cm": "117",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "57",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21982,12 +21982,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "52",
     "chest_cm": "122",
     "waist_cm": "122",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "67",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -21997,12 +21997,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "130",
     "waist_cm": "130",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22012,12 +22012,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "121",
     "waist_cm": "133",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22027,12 +22027,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "130",
     "waist_cm": "128",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22042,12 +22042,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "50",
     "chest_cm": "122",
     "waist_cm": "140",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22057,12 +22057,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "128",
     "waist_cm": "140",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "59",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22072,12 +22072,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "131",
     "waist_cm": "129",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22087,12 +22087,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "124",
     "waist_cm": "140",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22102,12 +22102,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "55",
     "chest_cm": "135",
     "waist_cm": "140",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "57",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22117,12 +22117,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "51",
     "chest_cm": "14",
     "waist_cm": "146",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22132,12 +22132,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "50",
     "chest_cm": "130",
     "waist_cm": "160",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22147,12 +22147,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "52",
     "chest_cm": "129",
     "waist_cm": "147",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22162,12 +22162,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "54",
     "chest_cm": "149",
     "waist_cm": "160",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22177,12 +22177,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "140",
     "waist_cm": "210",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "60",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22192,12 +22192,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "33",
     "chest_cm": "76",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "95",
     "sleeve_left_cm": "95",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22207,12 +22207,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34",
     "chest_cm": "96",
     "waist_cm": "69",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22222,12 +22222,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "`35",
     "chest_cm": "83",
     "waist_cm": "69",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "56,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22237,12 +22237,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "81",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22252,12 +22252,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "89",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22267,12 +22267,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "92",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63,5",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22282,12 +22282,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "87",
     "waist_cm": "71",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22297,12 +22297,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "84",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22312,12 +22312,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22327,12 +22327,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40,5",
     "chest_cm": "94",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "63,5",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22342,12 +22342,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "103",
     "waist_cm": "84",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22357,12 +22357,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "89",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22372,12 +22372,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "92",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22387,12 +22387,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "91",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22402,12 +22402,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "47",
     "waist_cm": "41",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "38",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22417,12 +22417,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "91",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22432,12 +22432,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "92",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22447,12 +22447,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "88",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22462,12 +22462,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "94",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22477,12 +22477,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "94",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "57",
     "sleeve_left_cm": "57",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22492,12 +22492,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "90",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22507,12 +22507,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "98",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22522,12 +22522,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "95",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22537,12 +22537,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "90",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "60",
     "sleeve_right_cm": "72",
     "sleeve_left_cm": "72",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22552,12 +22552,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "98",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "59",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22567,12 +22567,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "104",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22582,12 +22582,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "93",
     "waist_cm": "55",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22597,12 +22597,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "96",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22612,12 +22612,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "93",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22627,12 +22627,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "98",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22642,12 +22642,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "95",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22657,12 +22657,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "99",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22672,12 +22672,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "98",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "65,5",
     "sleeve_left_cm": "65,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22687,12 +22687,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "104",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22702,12 +22702,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "98",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22717,12 +22717,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "102",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42,5",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22732,12 +22732,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "101",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22747,12 +22747,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "97",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22762,12 +22762,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22777,12 +22777,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "95",
     "waist_cm": "97",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22792,12 +22792,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "96",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22807,12 +22807,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "99",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "69",
     "sleeve_left_cm": "69",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22822,12 +22822,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "97",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65,5",
     "sleeve_left_cm": "65,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22837,12 +22837,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "97",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "66,5",
     "sleeve_left_cm": "66,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22852,12 +22852,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22867,12 +22867,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "100",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22882,12 +22882,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "100",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22897,12 +22897,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "96",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22912,12 +22912,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "106",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22927,12 +22927,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "97",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22942,12 +22942,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "101",
     "waist_cm": "92",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22957,12 +22957,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "105",
     "waist_cm": "94",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22972,12 +22972,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "53",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -22987,12 +22987,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "95",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23002,12 +23002,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "95",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "62,9",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23017,12 +23017,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43,5",
     "chest_cm": "101",
     "waist_cm": "93,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54,5",
     "sleeve_right_cm": "66,5",
     "sleeve_left_cm": "66,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23032,12 +23032,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "105",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23047,12 +23047,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "100",
     "waist_cm": "104",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "71",
     "sleeve_left_cm": "71",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23062,12 +23062,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41,5",
     "chest_cm": "58",
     "waist_cm": "89,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23077,12 +23077,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23092,12 +23092,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "107",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49,5",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23107,12 +23107,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "100",
     "waist_cm": "107",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23122,12 +23122,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "100",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23137,12 +23137,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "98",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23152,12 +23152,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39,5",
     "chest_cm": "105",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23167,12 +23167,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "108",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46,5",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23182,12 +23182,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "103",
     "waist_cm": "89",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23197,12 +23197,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "104",
     "waist_cm": "95",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23212,12 +23212,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "101",
     "waist_cm": "98",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23227,12 +23227,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "112",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23242,12 +23242,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "119",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23257,12 +23257,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "101",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23272,12 +23272,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42,5",
     "chest_cm": "103",
     "waist_cm": "93",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23287,12 +23287,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40,5",
     "chest_cm": "105",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23302,12 +23302,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "113",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "60",
     "sleeve_right_cm": "86",
     "sleeve_left_cm": "86",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23317,12 +23317,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "100",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23332,12 +23332,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "111",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "61",
     "sleeve_left_cm": "61",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23347,12 +23347,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "110",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23362,12 +23362,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "110",
     "waist_cm": "100",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23377,12 +23377,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40,5",
     "chest_cm": "106,5",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45,5",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23392,12 +23392,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "110",
     "waist_cm": "109",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23407,12 +23407,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "114",
     "waist_cm": "111",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23422,12 +23422,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "110",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23437,12 +23437,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "119",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23452,12 +23452,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "105",
     "waist_cm": "96",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23467,12 +23467,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "116",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "58",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23482,12 +23482,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "108",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23497,12 +23497,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "113",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23512,12 +23512,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "32",
     "chest_cm": "100",
     "waist_cm": "115",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "41",
     "sleeve_right_cm": "55",
     "sleeve_left_cm": "55",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23527,12 +23527,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "114",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23542,12 +23542,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43,3",
     "chest_cm": "115",
     "waist_cm": "114,4",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50,5",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23557,12 +23557,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "115",
     "waist_cm": "103",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "61,5",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23572,12 +23572,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "115",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23587,12 +23587,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "45",
     "chest_cm": "116",
     "waist_cm": "108",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "70",
     "sleeve_left_cm": "69",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23602,12 +23602,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "51",
     "chest_cm": "119",
     "waist_cm": "110",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23617,12 +23617,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "111",
     "waist_cm": "113",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23632,12 +23632,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "112",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "58",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23647,12 +23647,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "44",
     "chest_cm": "112",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23662,12 +23662,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "110",
     "waist_cm": "114",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "49",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23677,12 +23677,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "50",
     "chest_cm": "126",
     "waist_cm": "120",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "60",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23692,12 +23692,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "119",
     "waist_cm": "128",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23707,12 +23707,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "48",
     "chest_cm": "116",
     "waist_cm": "105",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23722,12 +23722,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "50",
     "chest_cm": "119",
     "waist_cm": "119",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "58",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23737,12 +23737,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "115",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23752,12 +23752,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "117",
     "waist_cm": "112",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23767,12 +23767,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "46",
     "chest_cm": "122",
     "waist_cm": "116",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "58",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23782,12 +23782,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "43",
     "chest_cm": "122",
     "waist_cm": "125",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23797,12 +23797,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "51",
     "chest_cm": "128",
     "waist_cm": "135",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "55",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23812,12 +23812,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "50",
     "chest_cm": "124",
     "waist_cm": "140",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23827,12 +23827,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "58",
     "chest_cm": "133",
     "waist_cm": "139",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "63",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23842,12 +23842,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "42",
     "chest_cm": "144",
     "waist_cm": "154",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "54",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23857,12 +23857,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "61",
     "chest_cm": "136",
     "waist_cm": "144",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "51",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23872,12 +23872,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "82",
     "waist_cm": "70",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "40",
     "sleeve_right_cm": "18",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23887,12 +23887,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "34,5",
     "chest_cm": "78",
     "waist_cm": "70",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23902,12 +23902,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "89",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43,5",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23917,12 +23917,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "85",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23932,12 +23932,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "41",
     "chest_cm": "87",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23947,12 +23947,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "88",
     "waist_cm": "71",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23962,12 +23962,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "86",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23977,12 +23977,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "101",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -23992,12 +23992,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "36",
     "chest_cm": "83",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24007,12 +24007,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "33",
     "chest_cm": "93",
     "waist_cm": "90",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24022,12 +24022,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "92",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24037,12 +24037,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "35",
     "chest_cm": "92",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24052,12 +24052,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "91",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24067,12 +24067,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "89",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24082,12 +24082,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "89",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24097,12 +24097,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "99",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "48",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24112,12 +24112,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "91",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24127,12 +24127,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "96",
     "waist_cm": "79",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "71",
     "sleeve_left_cm": "71",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24142,12 +24142,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "90",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24157,12 +24157,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24172,12 +24172,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "72",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "71",
     "sleeve_left_cm": "71",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24187,12 +24187,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24202,12 +24202,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "88",
     "waist_cm": "77",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24217,12 +24217,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "94",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24232,12 +24232,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "89",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24247,12 +24247,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "95,5",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24262,12 +24262,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "87",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "42",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24277,12 +24277,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "91",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43",
     "sleeve_right_cm": "67",
     "sleeve_left_cm": "67",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24292,12 +24292,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "96",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "38",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24307,12 +24307,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "91",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24322,12 +24322,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "91",
     "waist_cm": "76,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "52",
     "sleeve_right_cm": "64,5",
     "sleeve_left_cm": "64,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24337,12 +24337,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "90",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "60",
     "sleeve_left_cm": "60",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24352,12 +24352,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "94",
     "waist_cm": "82",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "68",
     "sleeve_left_cm": "68",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24367,12 +24367,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "100",
     "waist_cm": "102",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "64",
     "sleeve_left_cm": "64",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24382,12 +24382,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "91",
     "waist_cm": "76",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45,5",
     "sleeve_right_cm": "68,5",
     "sleeve_left_cm": "68,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24397,12 +24397,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "90",
     "waist_cm": "78",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24412,12 +24412,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "95",
     "waist_cm": "75",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "50",
     "sleeve_right_cm": "75",
     "sleeve_left_cm": "75",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24427,12 +24427,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "97",
     "waist_cm": "80",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "56",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24442,12 +24442,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "37",
     "chest_cm": "86",
     "waist_cm": "81",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24457,12 +24457,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "91",
     "waist_cm": "83",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "44",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24472,12 +24472,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "94,5",
     "waist_cm": "83,5",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "43,5",
     "sleeve_right_cm": "63",
     "sleeve_left_cm": "63",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24487,12 +24487,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "39",
     "chest_cm": "99",
     "waist_cm": "85",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "M",
@@ -24502,12 +24502,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38",
     "chest_cm": "95",
     "waist_cm": "86",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "62",
     "sleeve_left_cm": "62",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "moyenne",
@@ -24517,12 +24517,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "38,5",
     "chest_cm": "94",
     "waist_cm": "74",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "46",
     "sleeve_right_cm": "63,5",
     "sleeve_left_cm": "63,5",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "mediane",
@@ -24532,12 +24532,12 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "97",
     "waist_cm": "87",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "45",
     "sleeve_right_cm": "66",
     "sleeve_left_cm": "66",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   },
   {
     "sex": "mode",
@@ -24547,11 +24547,11 @@ window.SAMPLE_DATA = [
     "neck_cm": "40",
     "chest_cm": "102",
     "waist_cm": "88",
-    "hip_cm": null,
+    "hip_cm": 1,
     "shoulder_cm": "47",
     "sleeve_right_cm": "65",
     "sleeve_left_cm": "65",
-    "bicep_cm": null,
-    "wrist_cm": null
+    "bicep_cm": 1,
+    "wrist_cm": 1
   }
 ];
