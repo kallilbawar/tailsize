@@ -1,42 +1,170 @@
+
 <!doctype html>
 <html lang="fr">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Assistant de Taille — Tailor Wizard</title>
-  <link rel="stylesheet" href="styles.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Assistant de mensurations – type Tailor</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://unpkg.com/three@0.161.0/build/three.module.js",
+      "three/addons/": "https://unpkg.com/three@0.161.0/examples/jsm/"
+    }
+  }
+  </script>
 </head>
 <body>
-  <div class="layout">
-    <div class="wizard card">
-      <header class="head">
-        <div class="brand">tailorgeorge.</div>
-        <nav class="nav">
-          <a href="#" aria-label="menu">Menu</a>
-          <a href="#" class="cart" aria-label="panier">Panier</a>
-        </nav>
-      </header>
-      <div class="progress"><div id="bar"></div></div>
-      <div class="step-meta">
-        Étape <b id="sn">1</b>/6 — <span class="muted">Créez une taille unique pour votre chemise</span>
+  <div class="container">
+    <div class="header">
+      <div>
+        <h1>Votre ajustement parfait commence ici</h1>
+        <div class="mini">Flow en plusieurs étapes (inspiré des configurateurs de chemises sur mesure)</div>
       </div>
-      <main id="content"></main>
-      <footer class="foot-actions">
-        <button id="back" class="btn outline" type="button">Retour</button>
-        <div class="spacer"></div>
-        <button id="jsonBtn" class="btn ghost" type="button">Voir JSON</button>
-        <button id="next" class="btn" type="button">Continuer</button>
-      </footer>
+      <div style="display:flex; gap:8px; align-items:center;">
+        <span class="badge">Full JS</span>
+        <span class="badge">kNN + robust stats</span>
+        <span class="badge">Avatar 2D/3D</span>
+      </div>
     </div>
-    <aside class="json card">
-      <h3>Payload</h3>
-      <pre id="jsonBox">{}</pre>
-      <div class="aside-actions">
-        <button id="copyJson" class="btn small" type="button">Copier</button>
-        <button id="dlJson" class="btn small" type="button">Télécharger</button>
+
+    <div class="grid">
+      <!-- Left: Wizard -->
+      <div class="card left">
+        <div class="progress"><div id="progbar" style="width: 0%"></div></div>
+
+        <!-- Step 1: Bases -->
+        <div class="step" id="s1">
+          <div class="step-title">Étape 1 / 8 — Base</div>
+          <div class="step-sub">Entre tes informations de base.</div>
+          <div class="row">
+            <div>
+              <label class="small">Taille (cm)</label>
+              <input class="input" id="iHeight" type="number" min="140" max="220" placeholder="ex: 178">
+            </div>
+            <div>
+              <label class="small">Poids (kg)</label>
+              <input class="input" id="iWeight" type="number" min="40" max="220" placeholder="ex: 68">
+            </div>
+          </div>
+          <div class="row">
+            <div>
+              <label class="small">Âge (ans)</label>
+              <input class="input" id="iAge" type="number" min="10" max="100" placeholder="ex: 47">
+            </div>
+            <div>
+              <label class="small">Sexe</label>
+              <select class="input" id="iSex">
+                <option value="M">Homme</option>
+                <option value="F">Femme</option>
+              </select>
+            </div>
+          </div>
+          <hr class="sep" />
+          <label class="small"><input type="checkbox" id="useCsv"> Charger un CSV</label>
+          <div id="csvPick" class="row hidden">
+            <div><label class="small">Fichier CSV</label><input class="input" id="csvFile" type="file" accept=".csv"></div>
+            <div class="small">Format: sex,height_cm,weight_kg,age,neck_cm,chest_cm,waist_cm,hip_cm,shoulder_cm,sleeve_right_cm,sleeve_left_cm,bicep_cm,wrist_cm</div>
+          </div>
+        </div>
+
+        <!-- Step 2: Corps -->
+        <div class="step hidden" id="s2">
+          <div class="step-title">Étape 2 / 8 — Quelle forme te ressemble le plus ?</div>
+          <div class="step-sub">Choisis la silhouette générale.</div>
+          <div class="options">
+            <div class="opt active" data-shape="rectangle">
+              <svg viewBox="0 0 100 100"><rect x="25" y="18" width="50" height="64" rx="10" fill="#dfe3ff" opacity=".12" stroke="#a5b4fc"/></svg>
+              <div class="small" style="text-align:center">Poitrine ≈ Taille</div>
+            </div>
+            <div class="opt" data-shape="vshape">
+              <svg viewBox="0 0 100 100"><path d="M15,18 L85,18 L65,82 L35,82 Z" fill="#dfe3ff" opacity=".12" stroke="#a5b4fc"/></svg>
+              <div class="small" style="text-align:center">Poitrine &gt; Taille (V)</div>
+            </div>
+            <div class="opt" data-shape="apple">
+              <svg viewBox="0 0 100 100"><path d="M25,28 Q50,14 75,28 Q88,50 75,72 Q50,86 25,72 Q12,50 25,28 Z" fill="#dfe3ff" opacity=".12" stroke="#a5b4fc"/></svg>
+              <div class="small" style="text-align:center">Taille &gt; Poitrine</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Step 3: Épaules -->
+        <div class="step hidden" id="s3">
+          <div class="step-title">Étape 3 / 8 — Forme des épaules</div>
+          <div class="options">
+            <div class="opt" data-shoulders="straight"><svg viewBox="0 0 100 100"><path d="M15,40 H85" stroke="#a5b4fc"/><circle cx="50" cy="50" r="38" fill="#dfe3ff" opacity=".08" stroke="#a5b4fc"/></svg><div class="small" style="text-align:center">Droites</div></div>
+            <div class="opt active" data-shoulders="average"><svg viewBox="0 0 100 100"><path d="M15,38 Q50,50 85,38" stroke="#a5b4fc"/><circle cx="50" cy="50" r="38" fill="#dfe3ff" opacity=".08" stroke="#a5b4fc"/></svg><div class="small" style="text-align:center">Moyenne</div></div>
+            <div class="opt" data-shoulders="sloped"><svg viewBox="0 0 100 100"><path d="M15,30 Q50,58 85,30" stroke="#a5b4fc"/><circle cx="50" cy="50" r="38" fill="#dfe3ff" opacity=".08" stroke="#a5b4fc"/></svg><div class="small" style="text-align:center">Penchées</div></div>
+          </div>
+        </div>
+
+        <!-- Step 4: Ventre -->
+        <div class="step hidden" id="s4">
+          <div class="step-title">Étape 4 / 8 — Ton ventre</div>
+          <div class="step-sub">Décris le volume du ventre (influence la taille).</div>
+          <input class="input" id="iBelly" type="range" min="0" max="3" step="1" value="1">
+          <div class="small">0 = plat · 1 = léger · 2 = marqué · 3 = très rond</div>
+        </div>
+
+        <!-- Step 5: Musculature -->
+        <div class="step hidden" id="s5">
+          <div class="step-title">Étape 5 / 8 — Musculature</div>
+          <div class="step-sub">Impacte poitrine et biceps.</div>
+          <input class="input" id="iMuscle" type="range" min="0" max="3" step="1" value="1">
+          <div class="small">0 = faible · 1 = normal · 2 = athlétique · 3 = très musclé</div>
+        </div>
+
+        <!-- Step 6: Ajustement (aisance) -->
+        <div class="step hidden" id="s6">
+          <div class="step-title">Étape 6 / 8 — Aisance voulue</div>
+          <select class="input" id="iFit">
+            <option value="slim">Près du corps (slim)</option>
+            <option value="regular" selected>Standard (regular)</option>
+            <option value="relaxed">Confort (relaxed)</option>
+          </select>
+          <div class="small">Sert à calculer la mesure **vêtement** (on te donne corps + vêtement).</div>
+        </div>
+
+        <!-- Step 7: 3D option -->
+        <div class="step hidden" id="s7">
+          <div class="step-title">Étape 7 / 8 — Prévisualisation</div>
+          <label class="small"><input type="checkbox" id="toggle3d"> Activer l’avatar 3D (beta)</label>
+          <div class="small">Tu pourras tourner/zoomer l’avatar sur l’écran de droite.</div>
+        </div>
+
+        <!-- Step 8: GO -->
+        <div class="step hidden" id="s8">
+          <div class="step-title">Étape 8 / 8 — Calculs</div>
+          <div class="small">Clique sur « Calculer » pour obtenir tes mensurations estimées.</div>
+        </div>
+
+        <div class="nav">
+          <button class="btn" id="back">Retour</button>
+          <button class="btn primary" id="next">Continuer</button>
+        </div>
       </div>
-    </aside>
+
+      <!-- Right: Result -->
+      <div class="card right">
+        <h2>Résultat</h2>
+        <div id="avatar2d" style="margin-bottom: 10px;"></div>
+        <div id="avatar3d" class="hidden" style="margin-bottom: 10px;"></div>
+        <textarea id="result-json" placeholder="{... JSON ...}"></textarea>
+        <div class="small">Charge un CSV réel pour de meilleures prédictions.</div>
+      </div>
+    </div>
   </div>
-  <script type="module" src="wizard.js"></script>
+
+  <script src="data/dataset.js"></script>
+  <script type="module" src="js/wizard.js"></script>
+  <script>
+    // toggle 3D container when checkbox is set
+    document.addEventListener('change', (e)=>{
+      if (e.target && e.target.id === 'toggle3d') {
+        document.getElementById('avatar3d').classList.toggle('hidden', !e.target.checked);
+      }
+    });
+  </script>
 </body>
 </html>
